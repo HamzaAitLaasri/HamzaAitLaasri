@@ -10,7 +10,7 @@
   <a href="https://www.upwork.com/freelancers/~01c1ae88bb6b010ee7?mp_source=share" target="_blank">
     <img src="https://img.shields.io/badge/-%2312100E.svg?&style=for-the-badge&logo=upwork&logoColor=white&color=071A2C" alt="upwork"/>
   </a>
-  <a href="https://www.instagram.com/sora.oe/" target="_blank">
+  <a href="https://www.instagram.com/hamza_ait_laasri0?igsh=dmhkOTVwOHhnYXg4">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
   </a>
 
