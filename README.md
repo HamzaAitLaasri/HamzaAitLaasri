@@ -39,8 +39,8 @@
 
 <h2> About ME 💬
 
-<br/><br/><br/>
-<img align="righ" height="270px" width="400px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+<br/>
+<img align="right" height="270px" width="400px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 <p align="center">
 
 <p align="center">
