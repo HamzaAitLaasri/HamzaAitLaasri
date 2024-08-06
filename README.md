@@ -43,18 +43,16 @@
 
 
 <p align="center">
-  <h3> I'm 21 years old Full-Stack developer from India.</h3>
+  <h3>I'm 20 y old video editor from Morocco.</h3>
 </p>
 
- - 🥀 Learning Swift & Objective_C
+ - 🥀 •still  every day learning about new things
  
- - <i>with Javascript, Typescript, React and 69 others.</i>
+ - <i>I do the whole types of edits (short /long /complex effects / 3d ...).</i>
    
- - 🔭 SpaceX FanBoi, die for space😼
+ - 🔭really loving what I do😼
 
- - 🛸 Into High Energy Physics and Astrophysics, i love shooting stars too.
- 
- - I do fullstack and a bit of everything :heart:
+ - 🛸expecting to make a big studio ￼ 
  
  - All About living life at its best.
  
