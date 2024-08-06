@@ -56,11 +56,6 @@
  
  - All About living life at its best.
  
- - 💬 Connect? lets get social 👉🏼[<img src="(https://twitter.com/_hemant_joshi" >](https://twitter.com/_hemant_joshi)
- 
- <p align="center">
-  <h4> Full Stack | Competitive Programming </h4>
-   </p>
 
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
