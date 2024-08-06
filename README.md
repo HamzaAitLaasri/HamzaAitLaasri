@@ -45,7 +45,7 @@
 <h2> About ME 💬
 <p align="center">
   <h3>I'm 20 y old video editor from Morocco.</h3>
-</p>
+
 
  - 🥀 •still  every day learning about new things
  
@@ -57,7 +57,7 @@
  
  - All About living life at its best.
  
-
+</p>
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
