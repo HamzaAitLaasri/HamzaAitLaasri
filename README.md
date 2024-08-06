@@ -40,22 +40,18 @@
 <h2> About ME 💬
 
 <br/>
+
 <img align="right" height="270px" width="400px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
-<p align="center">
-
-<p align="center">
+  <p align="left">
   <h3>I'm 20 y old video editor from Morocco.</h3>
-
-
  - 🥀 •still  every day learning about new things
  
  - <i>I do the whole types of edits (short /long /complex effects / 3d ...).</i>
    
  - 🔭really loving what I do😼
 
- - 🛸expecting to make a big studio ￼ 
+ - 🛸expecting to make a big studio. 
  
- - All About living life at its best.
  
 </p>
 
