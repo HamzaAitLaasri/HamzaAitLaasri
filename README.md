@@ -1,6 +1,6 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm passionate about video editing and storytelling..!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><img width="80%" alt="Hello, I'm passionate about video editing and storytelling..!" src="./assets/gh-readme-header.png" /></a></p>
 
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+
 - 👋 Hi, I’m @HamzaAitLaasri
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
