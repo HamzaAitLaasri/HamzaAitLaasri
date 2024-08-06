@@ -27,6 +27,7 @@
    <i>⚡️⚡️My expertise lies in blending advanced editing techniques with creative flair to produce content that not only engages but also inspires. Whether it's motion graphics, 3D animation, or intricate visual effects, my dedication to the craft ensures that every project I undertake is both innovative and polished to perfection. This passion for editing drives me to continuously push the boundaries of what’s possible, making each video a unique masterpiece.⚡️⚡️</i>
   </h5>
  
- 
+ <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+<p align="center">
 <br />
 
