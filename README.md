@@ -39,9 +39,10 @@
 
 
 <h2> About ME 💬
-<br/><br/><br/> <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+<br/><br/><br/>
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 <p align="center">
-<br />
+
 <p align="center">
   <h3>I'm 20 y old video editor from Morocco.</h3>
 </p>
